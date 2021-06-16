@@ -19,7 +19,7 @@ def trip(string):
     return string
 
 
-a = " s df  "
+a = " s df   "
 print(trip(a))
 
 # 8：15-8：17
